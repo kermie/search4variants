@@ -31,11 +31,11 @@ $sMetadataVersion = '1.0';
 $aModule = array(
     'id'           => 'search4variants',
     'title'        => 'search4variants',
-    'url'          => 'http://www.marco-steinhaeuser.de',
+    'url'          => 'https://github.com/kermie/search4variants',
     'description'  => array(
         'en'=>'Enables store front search for variant product items.',
         'de'=>'Ermöglicht die Suche nach Variantenartikeln im Shop Frontend.',
-        'ru'=>'Позволяет искать вариантов в интерфейсе магазина.'
+        'ru'=>'Позволяет искать в вариантах.'
     ),
     'version'      => '0.9',
     'author'       => 'Marco, on the basis of the OXID forum and with the grateful help of my mates',
