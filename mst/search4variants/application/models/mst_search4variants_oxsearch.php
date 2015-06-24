@@ -1,6 +1,6 @@
 <?php
 
-class mst_search4variants_oxsearch extends mst_search4variants_parent
+class mst_search4variants_oxsearch extends mst_search4variants_oxsearch_parent
 
 {
 
